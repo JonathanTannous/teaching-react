@@ -1,7 +1,9 @@
 function App() {
+  const word = "Hello World";
+
   return (
     <>
-      <h1 className="flex justify-center text-3xl hover:bg-blue-100">Hello</h1>
+      <h1 className="flex justify-center text-3xl hover:bg-blue-100">{word}</h1>
     </>
   );
 }
