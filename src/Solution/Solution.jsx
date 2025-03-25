@@ -1,5 +1,6 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
+import User from "./User";
 
 function Solution() {
   const [userData, setUserData] = useState(null);
@@ -28,16 +29,11 @@ function Solution() {
           {userData &&
             userData.map((user) => (
               <li key={user.id.value}>
-                <section className="flex gap-2">
-                  <h2>Name:</h2>
-                  <p>
-                    {user.name.first} {user.name.last}
-                  </p>
-                </section>
-                <section className="flex gap-2">
-                  <h2>Email:</h2>
-                  <p>{user.email}</p>
-                </section>
+                <User
+                  nameFirst={user.name.first}
+                  nameLast={user.name.last}
+                  email={user.email}
+                />
               </li>
             ))}
         </ol>
