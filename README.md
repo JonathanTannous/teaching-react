@@ -1,6 +1,6 @@
-# A Repo for teaching others React.
+# A Repo for teaching others React & Tailwind.
 
-I am using this repo to teach others React without having to go through the burden of project init. Also being used to teach other the basics of git and GitHub.
+I am using this repo to teach others React & Tailwind without having to go through the burden of project init. Also being used to teach other the basics of git and GitHub.
 
 The skills learned here are directly applicable to the Mr. Math portal frontend development.
 
@@ -22,5 +22,6 @@ The skills learned here are directly applicable to the Mr. Math portal frontend 
 - useState and useEffect hooks
 - Fetching data with Axios
 - Reading and displaying JSON data
+- Basic Tailwind
 
 A Solution file is included. DO NOT LOOK AT THIS UNTIL YOU ARE FINISHED!!! If you run into issues, please see me first so we can discuss any friction in this project. Don't forget, the purpose of this project is to learn, not to get to the final solution.
