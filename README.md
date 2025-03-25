@@ -7,7 +7,7 @@ The skills learned here are directly applicable to the Mr. Math portal frontend 
 ## Instructions
 
 - Fork this repo and clone it to your machine
-  `npm i` in the terminal to install dependencies
+- `npm i` in the terminal to install dependencies
 - `npm run dev` in the terminal to run the app in development
 - navigate to http://localhost:5173/ to view the app
 - Fetch (get) fake user data from "https://randomuser.me/api/?results=3"
