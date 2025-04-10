@@ -4,6 +4,8 @@ I am using this repo to teach others React & Tailwind without having to go throu
 
 The skills learned here are directly applicable to the Mr. Math portal frontend development.
 
+Please do not write any CSS. All styling should be done with Tailwind.
+
 ## Instructions
 
 - Fork this repo and clone it to your machine
