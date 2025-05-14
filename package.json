@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.9",
-    "axios": "^1.8.3",
+    "axios": "^1.9.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwindcss": "^4.0.9"
@@ -29,5 +29,18 @@
     "prettier": "^3.5.2",
     "prettier-plugin-tailwindcss": "^0.6.11",
     "vite": "^6.2.0"
-  }
+  },
+  "description": "I am using this repo to teach others React & Tailwind without having to go through the burden of project init. Also being used to teach other the basics of git and GitHub.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanTannous/teaching-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanTannous/teaching-react/issues"
+  },
+  "homepage": "https://github.com/JonathanTannous/teaching-react#readme"
 }
